@@ -18,6 +18,7 @@ module.exports = function(grunt) {
                      'src/models/historicalBar.js',
                      'src/models/bullet.js',
                      'src/models/bulletChart.js',
+                     'src/models/brushControl.js',
                      'src/models/cumulativeLineChart.js',
                      'src/models/discreteBar.js',
                      'src/models/discreteBarChart.js',
